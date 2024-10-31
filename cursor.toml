@@ -1,0 +1,5 @@
+[cursor]
+  style = {shape = "Block", blinking = "On"}
+  blink_interval = 750
+  blink_timeout = 10
+  unfocused_hollow = true

@@ -1,0 +1,6 @@
+[window]
+title= "Alacritty"
+dynamic_title = true
+dimensions = { columns = 150, lines = 30}
+resize_increments = true
+decorations = "Full"
